@@ -110,3 +110,7 @@ A little unfortunately, Tess is only available as a binary for Windows or classi
   <img src="Files/2023_rabbit.png" width="40%" />
 </p>
 
+## 2024
+<p align="center">
+  <img src="Files/2024_dragon.png" width="40%" />
+</p>
